@@ -23,6 +23,11 @@ export default function Home() {
                             </a>
                         </li>
                         <li className="max-w-md text-lg leading-8 text-zinc-600">
+                            <a href="https://stela.kokona.website" className="font-medium text-zinc-950">
+                                Stela's Website
+                            </a>
+                        </li>
+                        <li className="max-w-md text-lg leading-8 text-zinc-600">
                             <a href="https://chloe.kokona.website" className="font-medium text-zinc-950">
                                 Chloe's Website
                             </a>
